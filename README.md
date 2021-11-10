@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paris,a student from Beijing
+- 👋 Hi, I’m @Paris, a student from Beijing
 - 👀 I’m interested in Data mining\NLP\Business Analys
 - 🌱 I’m currently learning information science\machine learning\law
 - 💞️ I’m looking to collaborate on NLP models
